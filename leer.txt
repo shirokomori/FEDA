@@ -1,0 +1,6 @@
+pd.cpp programacion dinamica para calculo de distancia entre dos textos
+	distancia considerando insert y delete
+dblp.cpp y dblp_f.cpp un grafo de coautorias, donde interesa realizar una exploracion 
+                      de coautores de articulos
+
+
